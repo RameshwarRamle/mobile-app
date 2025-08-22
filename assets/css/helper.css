@@ -1,0 +1,11 @@
+ul, ol{
+	list-style:none;
+}
+.navbar ul li a:link, a:visited{
+	text-decoration:none;
+	display: inline-block;
+}
+
+.mb-100{
+	margin-bottom:100px;
+}
